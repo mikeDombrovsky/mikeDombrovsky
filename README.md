@@ -1,10 +1,14 @@
 ### Hi there 👋, I'm Michael Dombrovsky.
-Full Stack Developer
+A passionate `Full Stack Developer` from Israel 
 
 <a href="photo.png" target="blank">
-<img align="center" src="URL_TO_YOUR_IMAGE" height="100" />
+<img align="center" src="photo.png" height="100" />
 </a>
 
+
+<a href="photo.png" target="blank">
+<img align="center" src="photo.png" height="100" />
+</a>
 
 
 <!--
