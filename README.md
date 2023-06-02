@@ -1,15 +1,23 @@
 ### Hi there 👋, I'm Michael Dombrovsky.
 A passionate `Full Stack Developer` from Israel 
 
-<a href="photo.png" target="blank">
-<img align="center" src="photo.png" height="100" />
-</a>
+<a href="/beach.png" target="blank">
+<img align="center" src="/beach.jpg" height="500" />
+</a><br/>
 
-
-<a href="photo.png" target="blank">
-<img align="center" src="photo.png" height="100" />
-</a>
-
+## My skills : 
+<span>
+  <img align="center" src="javascript.svg" height="50" />
+  <img align="center" src="react.svg" height="50" />
+  <img align="center" src="html5.svg" height="50" />
+  <img align="center" src="css3.svg" height="50" />
+  <img align="center" src="git.svg" height="50" />
+  <img align="center" src="gitlab.svg" height="50" />
+  <img align="center" src="mysql.svg" height="50" />
+  <img align="center" src="postgresql.svg" height="50" />
+  <img align="center" src="mongodb.svg" height="50" />
+  <img align="center" src="nike.svg" height="50" />
+</span>
 
 <!--
 **mikeDombrovsky/mikeDombrovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
